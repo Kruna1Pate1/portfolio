@@ -4,7 +4,7 @@ import {
   GrGithub,
   GrTwitter,
   GrFacebookOption
-} from 'react-icons/Gr';
+} from 'react-icons/gr';
 
 export const social = [
   {
