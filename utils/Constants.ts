@@ -56,52 +56,52 @@ export const about = {
 export const languages = [
   {
     name: 'java',
-    image: '/../public/images/skill/java.png',
+    image: '/images/skill/java.png',
     url: ''
   },
   {
     name: 'kotlin',
-    image: '/../public/images/skill/kotlin.png',
+    image: '/images/skill/kotlin.png',
     url: ''
   },
   {
     name: 'javascript',
-    image: '/../public/images/skill/javascript.png',
+    image: '/images/skill/javascript.png',
     url: ''
   },
   {
     name: 'typescript',
-    image: '/../public/images/skill/typescript.png',
+    image: '/images/skill/typescript.png',
     url: ''
   },
   {
     name: 'python',
-    image: '/../public/images/skill/python.png',
+    image: '/images/skill/python.png',
     url: ''
   },
   // {
   //   name: 'c',
-  //   image: '/../public/images/skill/c.png',
+  //   image: '/images/skill/c.png',
   //   url: ''
   // },
   {
     name: 'cplusplus',
-    image: '/../public/images/skill/cplusplus.png',
+    image: '/images/skill/cplusplus.png',
     url: ''
   },
   {
     name: 'bash',
-    image: '/../public/images/skill/bash.png',
+    image: '/images/skill/bash.png',
     url: ''
   },
   {
     name: 'html5',
-    image: '/../public/images/skill/html5.png',
+    image: '/images/skill/html5.png',
     url: ''
   },
   {
     name: 'css3',
-    image: '/../public/images/skill/css3.png',
+    image: '/images/skill/css3.png',
     url: ''
   }
 ];
@@ -109,58 +109,58 @@ export const languages = [
 export const frameworks = [
   {
     name: 'android',
-    image: '/../public/images/skill/android.png',
+    image: '/images/skill/android.png',
     url: ''
   },
   {
     name: 'spring',
-    image: '/../public/images/skill/spring.png',
+    image: '/images/skill/spring.png',
     url: ''
   },
   {
     name: 'mysql',
-    image: '/../public/images/skill/mysql.png',
+    image: '/images/skill/mysql.png',
     url: ''
   },
   {
     name: 'postgresql',
-    image: '/../public/images/skill/postgresql.png',
+    image: '/images/skill/postgresql.png',
     url: ''
   },
   {
     name: 'reactjs',
-    image: '/../public/images/skill/reactjs.png',
+    image: '/images/skill/reactjs.png',
     url: ''
   },
   {
     name: 'nextjs',
-    image: '/../public/images/skill/nextjs.png',
+    image: '/images/skill/nextjs.png',
     url: ''
   },
   {
     name: 'git',
-    image: '/../public/images/skill/git.png',
+    image: '/images/skill/git.png',
     url: ''
   },
   // {
   //   name: 'oracle',
   //   image:
-  //     '/../public/images/skill/oracle.png',
+  //     '/images/skill/oracle.png',
   //   url: ''
   // },
   {
     name: 'sqlite',
-    image: '/../public/images/skill/sqlite.png',
+    image: '/images/skill/sqlite.png',
     url: ''
   },
   {
     name: 'linux',
-    image: '/../public/images/skill/linux.png',
+    image: '/images/skill/linux.png',
     url: ''
   },
   {
     name: 'redis',
-    image: '/../public/images/skill/redis.png',
+    image: '/images/skill/redis.png',
     url: ''
   }
 ];
@@ -168,32 +168,32 @@ export const frameworks = [
 export const tools = [
   {
     name: 'androidstudio',
-    image: '/../public/images/skill/androidstudio.png',
+    image: '/images/skill/androidstudio.png',
     url: ''
   },
   {
     name: 'intellij',
-    image: '/../public/images/skill/intellij.png',
+    image: '/images/skill/intellij.png',
     url: ''
   },
   {
     name: 'vscode',
-    image: '/../public/images/skill/vscode.png',
+    image: '/images/skill/vscode.png',
     url: ''
   },
   {
     name: 'github',
-    image: '/../public/images/skill/github.png',
+    image: '/images/skill/github.png',
     url: ''
   },
   {
     name: 'figma',
-    image: '/../public/images/skill/figma.png',
+    image: '/images/skill/figma.png',
     url: ''
   },
   {
     name: 'photoshop',
-    image: '/../public/images/skill/photoshop.png',
+    image: '/images/skill/photoshop.png',
     url: ''
   }
 ];
@@ -204,7 +204,7 @@ export const projects = [
     title: 'Pictionary Game',
     description:
       'Multiplayer online game where people can have fun. Room of players where one player can draw and the remaining players guess the word. The correct answer gets reward points based on the time remaining.',
-    image: '/../public/images/project/pictionarygame.png',
+    image: '/images/project/pictionarygame.png',
     techstack: [
       'Android',
       'Kotlin',
@@ -227,7 +227,7 @@ export const projects = [
     title: 'Book-E-Sale',
     description:
       'Developed Book-E-Sale an e-commerce website for buying and selling books. It provides features such as Search and Filter books, Login, Registration and Cart module, Different Roles.',
-    image: '/../public/images/project/bookesale.png',
+    image: '/images/project/bookesale.png',
     techstack: [
       'Spring-Boot',
       'Spring-Security',
@@ -253,7 +253,7 @@ export const projects = [
     title: 'AndroXploit',
     description:
       'Penetration testing application to identify devices connected to the network and service running on it. Provided features are Identify connected devices and services, Common vulnerabilities, Various scans, and Takeover or Takedown nodes.',
-    image: '/../public/images/project/Androxploit.png',
+    image: '/images/project/Androxploit.png',
     techstack: [
       'Android',
       'Kotlin',
@@ -275,7 +275,7 @@ export const projects = [
     title: 'Cowin AutoBook',
     description:
       'Android application for automatically booking Covid-19 vaccination slot using Cowin API on availability. Available features AutoFetch OTP, Relogin on token expiration, Slot checking interval 5s, Select beneficiaries list.',
-    image: '/../public/images/project/cowinautobook.gif',
+    image: '/images/project/cowinautobook.gif',
     techstack: ['Android', 'Kotlin', 'CoWin-API', 'MVVM-Architecture'],
     source: [
       {
@@ -290,7 +290,7 @@ export const projects = [
     title: 'WeatherFX',
     description:
       'Desktop application for weather nowcasting of any city using JavaFX. Type name of city and it will make asynchronous request to openweathermap api to fetch data about that city.',
-    image: '/../public/images/project/weatherfx.png',
+    image: '/images/project/weatherfx.png',
     techstack: [
       'Java',
       'JavaFX',
