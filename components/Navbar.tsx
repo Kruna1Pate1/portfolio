@@ -15,7 +15,7 @@ const Navbar = () => {
       {/* Desktop menu */}
       <nav className="flex justify-between items-center w-full h-full px-3 md:px-16">
         <Image
-          src="/../public/images/logo.png"
+          src="/images/logo.png"
           alt="Krunal Patel"
           width={94}
           height={40}
