@@ -253,7 +253,7 @@ export const projects = [
     title: 'AndroXploit',
     description:
       'Penetration testing application to identify devices connected to the network and service running on it. Provided features are Identify connected devices and services, Common vulnerabilities, Various scans, and Takeover or Takedown nodes.',
-    image: '/images/project/Androxploit.png',
+    image: '/images/project/androxploit.png',
     techstack: [
       'Android',
       'Kotlin',
