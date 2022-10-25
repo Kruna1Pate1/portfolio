@@ -11,7 +11,7 @@ const Navbar = () => {
   };
 
   return (
-    <div className='fixed w-full h-16 bg-[#0d1117] shadow-xl z-50'>
+    <div className="fixed w-full h-16 bg-[#0d1117] shadow-xl z-50">
       {/* Desktop menu */}
       <nav className="flex justify-between items-center w-full h-full px-3 md:px-16">
         <Image
@@ -42,6 +42,9 @@ const Navbar = () => {
               <Link href={'#project'}>
                 <a>Project</a>
               </Link>
+            </li>
+            <li className=" hover:text-gray-50">
+              <a href={'https://blog.krunalpatel.me/'}>Blog</a>
             </li>
           </ul>
 
@@ -101,6 +104,9 @@ const Navbar = () => {
                 <Link href={'#project'}>
                   <a>Project</a>
                 </Link>
+              </li>
+              <li className="hover:text-gray-50">
+                <a href={'https://blog.krunalpatel.me/'}>Blog</a>
               </li>
             </ul>
           </div>
